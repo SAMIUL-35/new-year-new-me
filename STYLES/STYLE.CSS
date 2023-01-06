@@ -9,8 +9,9 @@
     width: 1600px;
     height: 808px;
     text-align: right;
-    background-size: cove1r;
+    background-size:cover;
     width: 100%;
+    
 
     
     
@@ -22,7 +23,7 @@
     height: 228px;
     left: 845px;
     top: 216px;
-    display: r;
+    
     border: 230px 300px;
    margin-bottom: 50px;
 font-weight : 700;
@@ -63,4 +64,90 @@ color: #FFFFFF;
     
     color: #005FAC;
     position: absolute;
+}
+/* failure sec styles */
+.failure-sec-container {
+      
+width: 1072px;
+height: 723.3px;
+left: 239px;
+top: 792px;
+
+    background-image: url('../images/person.png'); 
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 70%;
+    
+    
+  
+  color: white;
+
+    
+
+.failure {
+    width: 416px;
+    height: 400px;
+    left: 895px;
+    top: 1031px;
+    position: absolute;
+    text-align: right;
+    text-align: right;
+    display: flex;
+    justify-content:end;
+    flat:right;
+    margin: 100%;
+    
+    
+   
+
+
+
+}
+    
+}
+
+
+}
+
+.failure-title {
+       
+
+width: 288px;
+height: 94px;
+left: 904px;
+top: 1075px;
+font-weight: 700;
+
+
+.failure-para {
+    position: absolute; 
+    color: #444343;
+    width: 416px;
+ height: 104px;
+ left: 895px;
+  top: 1149px;
+ font-size: 16px;
+ line-height: 26px;
+ 
+
+
+}
+
+
+}
+.failure-sec-container {
+
+    display: flex;
+    
+  
+  
+    
+}
+.img {
+    width: 451px;
+height: 898px;
+left: 310px;
+top: 801px;
+   margin-right: 117px;
+    
 }
